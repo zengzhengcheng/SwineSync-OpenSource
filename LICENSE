@@ -1,0 +1,51 @@
+SwineSync OpenSource Non-Commercial Attribution License 1.0
+
+Copyright (c) 2026 Zhengcheng Zeng and contributors
+
+1. Grant of permission
+
+Permission is granted to any person obtaining a copy of this software, associated model files, and accompanying documentation files (the "Software") to use, copy, modify, and distribute the Software for non-commercial purposes only, subject to the conditions below.
+
+2. Required attribution
+
+Any use, redistribution, publication, report, presentation, derivative work, or other public disclosure that uses or is based on the Software must include clear attribution to the original project and authors.
+
+At minimum, attribution must include:
+
+- Project name: SwineSync OpenSource
+- Repository URL: https://github.com/zengzhengcheng/SwineSync-OpenSource
+- Author reference: Zhengcheng Zeng and contributors
+
+If the Software is used in academic work, technical reports, preprints, posters, presentations, datasets, benchmarks, or publications, the user must cite the project in a visible citation or acknowledgements section.
+
+3. Non-commercial restriction
+
+Commercial use is not permitted without prior written permission from the copyright holder.
+
+"Commercial use" includes, but is not limited to:
+
+- selling the Software or derivative works
+- offering paid services that rely on the Software
+- using the Software in a product or service for commercial advantage
+- using the Software internally for a revenue-generating commercial activity where the Software is a material part of the workflow or deliverable
+
+4. Redistribution conditions
+
+Redistributions of the Software or derivative works must:
+
+- include this license text
+- preserve existing copyright notices
+- preserve attribution notices
+- clearly indicate whether changes were made
+
+5. No trademark license
+
+This license does not grant permission to use the names, logos, or trademarks of the authors except as reasonably necessary for attribution.
+
+6. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Commercial licensing
+
+For commercial licensing requests, users must contact the copyright holder for separate written permission.

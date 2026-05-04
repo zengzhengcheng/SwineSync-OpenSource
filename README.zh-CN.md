@@ -49,3 +49,10 @@ python main.py
 - 模型文件集中放在 [models](./models)
 - 配置文件在 [config.json](./config.json)
 - 中文和英文文档都已经包含
+
+## 许可与引用
+
+- 允许非商用使用
+- 商用必须另行获得书面授权
+- 公开使用、论文、报告、发布衍生版本时必须注明并引用本项目
+- 具体条款见 [LICENSE](./LICENSE) 和 [CITATION.cff](./CITATION.cff)

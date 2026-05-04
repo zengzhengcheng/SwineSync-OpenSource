@@ -50,3 +50,10 @@ This folder is organized so it can be used as an independent GitHub repository.
 - Model files are stored under [models](./models).
 - Runtime configuration is stored in [config.json](./config.json).
 - User documentation is included in both Chinese and English.
+
+## License and Citation
+
+- Non-commercial use is allowed.
+- Commercial use is not allowed without separate written permission.
+- Public use, reports, papers, and derivative releases must attribute this project.
+- See [LICENSE](./LICENSE) and [CITATION.cff](./CITATION.cff).

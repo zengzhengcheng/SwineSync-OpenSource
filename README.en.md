@@ -47,3 +47,10 @@ python main.py
 - Model files are stored under [models](./models).
 - Runtime configuration is stored in [config.json](./config.json).
 - Chinese and English user documents are both included.
+
+## License and Citation
+
+- Non-commercial use is allowed.
+- Commercial use requires separate written permission.
+- Public use, papers, reports, and derivative releases must attribute and cite this project.
+- See [LICENSE](./LICENSE) and [CITATION.cff](./CITATION.cff).
