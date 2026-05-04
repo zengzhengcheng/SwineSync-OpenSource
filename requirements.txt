@@ -1,0 +1,13 @@
+PyQt6
+numpy
+pandas
+scipy
+PyWavelets
+h5py
+matplotlib
+seaborn
+onnxruntime
+openpyxl
+tzlocal
+pytz
+torch

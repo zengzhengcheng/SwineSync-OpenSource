@@ -1,0 +1,7 @@
+{
+  "language": "zh",
+  "batch_size": 2,
+  "cache_size": 1,
+  "interpolation_algorithm": "original_timestamps",
+  "correct": true
+}
