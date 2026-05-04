@@ -41,6 +41,20 @@ python main.py
 - Synthetic-data export is intentionally removed from this open-source release.
 - Heavy processing is executed in a separate background process so the GUI remains responsive.
 
+## Reference Datasets
+
+Two related reference datasets are available through ScienceDB:
+
+- Dataset 1 DOI: `10.57760/sciencedb.35116`
+- Dataset 2 DOI: `10.57760/sciencedb.35878`
+
+Notes:
+
+- Access requires an application through ScienceDB.
+- The Scientific Data paper DOI is pending update.
+- Applications with an appropriate reason are expected to be approved.
+- Contact email: `zengzhengcheng@cau.edu.cn`
+
 ## Ready for GitHub
 
 - All source files are contained inside this directory.

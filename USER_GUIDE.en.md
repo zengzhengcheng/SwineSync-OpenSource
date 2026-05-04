@@ -251,3 +251,17 @@ Because it has been intentionally removed from the open-source release.
 ### 13.2 Why is the GUI more responsive now
 
 Because heavy tasks are now executed in a separate background subprocess.
+
+## 14. Reference Datasets
+
+If users want related reference datasets, they can apply through ScienceDB for:
+
+- Dataset 1 DOI: `10.57760/sciencedb.35116`
+- Dataset 2 DOI: `10.57760/sciencedb.35878`
+
+Additional notes:
+
+- The Scientific Data paper DOI is pending update.
+- Users need to submit an access request through ScienceDB.
+- Requests with an appropriate reason are generally expected to be approved.
+- Contact email: `zengzhengcheng@cau.edu.cn`
