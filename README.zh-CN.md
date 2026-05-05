@@ -64,6 +64,11 @@ python main.py
 - 配置文件在 [config.json](./config.json)
 - 中文和英文文档都已经包含
 
+## 关联仓库
+
+- 开源处理仓库：[SwineSync-OpenSource](https://github.com/zengzhengcheng/SwineSync-OpenSource)
+- 桌面打包发布仓库：[SwineSync-Studio](https://github.com/zengzhengcheng/SwineSync-Studio)
+
 ## 许可与引用
 
 - 允许非商用使用

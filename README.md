@@ -65,6 +65,11 @@ This folder is organized so it can be used as an independent GitHub repository.
 - Runtime configuration is stored in [config.json](./config.json).
 - User documentation is included in both Chinese and English.
 
+## Related Repositories
+
+- Open-source processing repository: [SwineSync-OpenSource](https://github.com/zengzhengcheng/SwineSync-OpenSource)
+- Public packaged desktop release: [SwineSync-Studio](https://github.com/zengzhengcheng/SwineSync-Studio)
+
 ## License and Citation
 
 - Non-commercial use is allowed.
