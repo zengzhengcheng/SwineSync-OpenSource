@@ -1,5 +1,7 @@
 # SwineSync OpenSource
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20051135.svg)](https://doi.org/10.5281/zenodo.20051135)
+
 Standalone open-source release for ECG conversion, cache generation, heart-rate processing, movement processing, and folder inspection.
 
 ## Documents
