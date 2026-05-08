@@ -5,6 +5,10 @@ type: software
 authors:
   - family-names: "Zeng"
     given-names: "Zhengcheng"
+  - family-names: "Tian"
+    given-names: "Siqi"
+  - family-names: "Zhang"
+    given-names: "Shuai"
 repository-code: "https://github.com/zengzhengcheng/SwineSync-OpenSource"
 url: "https://github.com/zengzhengcheng/SwineSync-OpenSource"
 license: "Custom-NC-Attribution"
@@ -15,6 +19,10 @@ preferred-citation:
   authors:
     - family-names: "Zeng"
       given-names: "Zhengcheng"
+    - family-names: "Tian"
+      given-names: "Siqi"
+    - family-names: "Zhang"
+      given-names: "Shuai"
   title: "SwineSync OpenSource"
   version: "1.0.0"
   url: "https://github.com/zengzhengcheng/SwineSync-OpenSource"
